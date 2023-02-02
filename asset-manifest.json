@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-calculator-web-app/static/js/main.342b3e75.js",
-    "index.html": "/react-calculator-web-app/index.html",
-    "main.342b3e75.js.map": "/react-calculator-web-app/static/js/main.342b3e75.js.map"
+    "main.js": "/post-it-app/static/js/main.342b3e75.js",
+    "index.html": "/post-it-app/index.html",
+    "main.342b3e75.js.map": "/post-it-app/static/js/main.342b3e75.js.map"
   },
   "entrypoints": [
     "static/js/main.342b3e75.js"
