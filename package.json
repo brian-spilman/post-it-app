@@ -2,7 +2,7 @@
   "name": "post-it-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brian-spilman.github.io/react-calculator-web-app",
+  "homepage": "https://brian-spilman.github.io/post-it-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
